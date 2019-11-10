@@ -1,8 +1,5 @@
 <pre>
 
-Changes are made from the following repository:
-https://github.com/santhoshkolloju/GooglePe
-
 It is only for learning purpose. 
 It has following scripts:
 
