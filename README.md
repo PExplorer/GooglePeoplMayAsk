@@ -14,7 +14,7 @@ It requires furthur filtering of the data:
 - In few cases, if weblink is not properly scraped, it may fetch wrong context. If weblink is not proper (for ex: if it ends with "...", exclude the context for that data point)
 
 
-# Scraping User Reviews from Tripoto.com
+# User Reviews Scraper
 - Code for scraping reviews for tripoto.com 
 
 
